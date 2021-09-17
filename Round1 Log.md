@@ -10,7 +10,8 @@ The log of my #100DaysOfCode challenge. Started on [Sept 17, Friday, 2021].
 
 **Link to Work:** (Hello World) (http:www.alongjr.com/helloworld)
 
-### R1D2
+
+### R1D2 R1D1 Day1: September 18, Saturday
 
 
 
